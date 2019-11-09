@@ -2,7 +2,7 @@
 """
 Created on Fri Nov  8 07:42:05 2019
 
-@author: hazut
+@author: hazut (hazuto sou eu)
 """
 import time
 from random import randint
